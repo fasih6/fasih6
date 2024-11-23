@@ -18,7 +18,7 @@ Opportunities in software development, cloud computing, or data engineering role
 
 Let’s connect and build something amazing together! 🌐
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasih6&layout=compact&langs_count=15)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasih6&layout=compact&langs_count=15)
 
 
 <!--
