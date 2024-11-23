@@ -18,6 +18,9 @@ Opportunities in software development, cloud computing, or data engineering role
 
 Let’s connect and build something amazing together! 🌐
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasih6&layout=compact&langs_count=15)]
+
+
 <!--
 **fasih6/fasih6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
