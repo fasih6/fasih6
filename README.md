@@ -1,22 +1,50 @@
 ## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Fasih
 
-🚀 Passionate Software Developer | Aspiring Cloud Specialist | Data Enthusiast
+🚀 **Software Developer | Aspiring Cloud Specialist | Data Enthusiast**  
 
-Hi there! 👋 I'm Fasih Ur Rehman Shahid, a master's student in Software Engineering at the University of Applied Sciences, Heilbronn.
+🎓 **Master's Student in Software Engineering** at the University of Applied Sciences, Heilbronn.  
+💡 Passionate about **backend development, cloud computing, and data engineering**.
 
-💻 What I Do
-With experience in Java, Spring Boot, microservices, and data engineering, I thrive in designing and implementing robust, scalable solutions. My projects include building full-stack applications, CI/CD pipelines, and AWS ETL pipelines, showcasing my problem-solving and technical expertise.
+---
 
-☁️ What I'm Learning
-Currently diving deeper into cloud computing, backend development, and data engineering, while exploring the latest advancements in DevSecOps and software architecture.
+## 💻 **What I Do**  
+🔹 Strong experience in **Java, Spring Boot, Microservices, and Cloud Technologies**.  
+🔹 Skilled in **Data Engineering, CI/CD, and DevSecOps** practices.  
+🔹 Built projects on **AWS, Kubernetes, Terraform, and ETL Pipelines**.  
 
-🌟 What Drives Me
-I aim to bridge the gap between innovative technology and business needs. I’m passionate about leveraging my skills to create impactful solutions, whether it’s through clean code, seamless pipelines, or interactive dashboards.
+---
 
-🎯 Looking For
-Opportunities in software development, cloud computing, or data engineering roles that challenge me to grow, contribute, and innovate.
+## ☁️ **Currently Exploring**  
+📌 **Cloud & Backend Development** – Deploying scalable services with AWS & Kubernetes.  
+📌 **DevSecOps & Software Architecture** – Securing pipelines and optimizing systems.  
+📌 **Data Engineering** – Designing efficient ETL workflows and interactive dashboards.  
 
-Let’s connect and build something amazing together! 🌐
+---
+
+## 🌟 **What Drives Me**  
+🔹 I love solving **real-world problems** through **clean code & scalable architecture**.  
+🔹 Passionate about **bridging technology and business needs** with innovative solutions.  
+🔹 Always eager to **learn, collaborate, and share knowledge** in the tech community.
+
+---
+
+## 🎯 **Looking For**  
+💼 **Opportunities in**:  
+- **Software Development (Java, Spring Boot, Microservices)**  
+- **Cloud Engineering (AWS, GCP, Azure, Kubernetes, Terraform,, CICD, DevOps)**  
+- **Data Engineering (ETL, SQL, Big Data Analytics)**  
+
+📩 Open to **internships, working student roles, and full-time opportunities**. Let’s connect!
+
+---
+
+## 📬 **Let's Connect!**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fasihurrehman6/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/fasih6)  
+📧 **Email**: fasih.shahid6@gmail.com  
+
+🚀 **Let’s build something amazing together!**
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasih6&layout=compact&langs_count=15)
 
