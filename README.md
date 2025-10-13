@@ -1,40 +1,45 @@
 ## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Fasih
 
-🚀 **Software Developer | Aspiring Cloud Specialist | Data Enthusiast**  
 
-🎓 **Master's Student in Software Engineering** at the University of Applied Sciences, Heilbronn.  
-💡 Passionate about **backend development, cloud computing, and data engineering**.
+👋 Hi there, I’m Fasih
 
----
+🚀 DevOps Engineer | Java Backend Engineer | Cloud Explorer
 
-## 💻 **What I Do**  
-🔹 Strong experience in **Java, Spring Boot, Microservices, and Cloud Technologies**.  
-🔹 Skilled in **Data Engineering, CI/CD, and DevSecOps** practices.  
-🔹 Built projects on **AWS, Kubernetes, Terraform, and ETL Pipelines**.  
+🎓 Master’s Student in Software Engineering at the University of Applied Sciences, Heilbronn
+💡 Passionate about building scalable backend systems and automating cloud-native deployments
 
----
+💻 What I Do
 
-## ☁️ **Currently Exploring**  
-📌 **Cloud & Backend Development** – Deploying scalable services with AWS & Kubernetes.  
-📌 **DevSecOps & Software Architecture** – Securing pipelines and optimizing systems.  
-📌 **Data Engineering** – Designing efficient ETL workflows and interactive dashboards.  
+🔹 Develop microservices-based applications using Java & Spring Boot
+🔹 Implement CI/CD pipelines with GitHub Actions, Jenkins & SonarQube
+🔹 Work with Docker, Kubernetes, and Terraform for deployment and infrastructure automation
+🔹 Integrate monitoring & security practices following DevSecOps principles
+🔹 Design and manage databases (MySQL, NoSQL) for robust backend systems
 
----
+☁️ Currently Exploring
 
-## 🌟 **What Drives Me**  
-🔹 I love solving **real-world problems** through **clean code & scalable architecture**.  
-🔹 Passionate about **bridging technology and business needs** with innovative solutions.  
-🔹 Always eager to **learn, collaborate, and share knowledge** in the tech community.
+📌 Cloud Infrastructure & Automation – Deploying and managing services on AWS
+📌 DevOps Practices – Streamlining software delivery with IaC, CI/CD & container orchestration
+📌 Spring Boot Advanced Concepts – API security, distributed tracing, and performance tuning
 
----
+🌟 What Drives Me
 
-## 🎯 **Looking For**  
-💼 **Opportunities in**:  
-- **Software Development (Java, Spring Boot, Microservices)**  
-- **Cloud Engineering (AWS, GCP, Azure, Kubernetes, Terraform,, CICD, DevOps)**  
-- **Data Engineering (ETL, SQL, Big Data Analytics)**  
+🔹 Writing clean, maintainable, and testable Java code
+🔹 Building reliable backend systems that scale in production
+🔹 Bridging the gap between development and operations with automation
+🔹 Constantly learning new technologies and contributing to open-source projects
 
-📩 Open to **internships, working student roles, and full-time opportunities**. Let’s connect!
+🎯 Looking For
+
+💼 Opportunities in
+
+🧩 Backend Development (Java, Spring Boot, Microservices)
+
+⚙️ DevOps Engineering (CI/CD, Docker, Kubernetes, Terraform)
+
+☁️ Cloud Engineering (AWS, GCP, Azure)
+
+📩 Open to internships, working student roles, or junior positions where I can grow and make an impact.
 
 ---
 
