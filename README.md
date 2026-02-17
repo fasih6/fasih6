@@ -43,6 +43,7 @@ Databases               →  MySQL · NoSQL
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -58,7 +59,7 @@ Databases               →  MySQL · NoSQL
 ## 🚀 What I'm Currently Working On
 
 - 📦 **Containerizing microservices** with Docker + deploying on Kubernetes clusters
-- 🔁 **Building CI/CD pipelines** with GitHub Actions integrating automated testing & security scans
+- 🔁 **Building CI/CD pipelines** with Jenkins | Gitlab integrating automated testing & security scans
 - ☁️ **AWS infrastructure automation** using Terraform — provisioning EC2, S3, RDS, and VPCs
 - 🔍 **Exploring observability** — distributed tracing, structured logging, and alerting pipelines
 
@@ -66,7 +67,7 @@ Databases               →  MySQL · NoSQL
 
 ## 🎯 Open To
 
-> I'm actively looking for **internships**, **working student roles**, or **junior positions** in:
+> I'm actively looking for **Entry level positions** in:
 >
 > - ⚙️ **DevOps Engineering** — CI/CD · Docker · Kubernetes · IaC
 > - ☁️ **Cloud Engineering** — AWS · Infrastructure Automation · Platform Engineering
@@ -75,13 +76,20 @@ Databases               →  MySQL · NoSQL
 📩 Reach me at **fasih.shahid6@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/fasihurrehman6/)
 
 ---
-
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fasih6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasih6&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
+---
+
+<!-- <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasih6&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasih6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-</div>
+</div> -->
 
 ---
 
