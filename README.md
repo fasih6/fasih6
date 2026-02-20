@@ -24,13 +24,13 @@
 ## ☁️ Cloud & DevOps Focus
 
 ```
-Infrastructure as Code  →  Terraform · AWS CloudFormation
-CI/CD Pipelines         →  GitHub Actions · Jenkins · SonarQube
+Infrastructure as Code  →  Terraform · Ansible
+CI/CD Pipelines         →  Jenkins · GitLab · GitHub Actions · SonarQube
 Containerization        →  Docker · Kubernetes (K8s)
 Cloud Platforms         →  AWS (primary) · GCP · Azure (exploring)
 Monitoring & Security   →  DevSecOps · Distributed Tracing · Alerting
 Backend Runtime         →  Java · Spring Boot · Microservices
-Databases               →  MySQL · NoSQL
+Databases               →  MySQL · NoSQL · PostgreSQL
 ```
 
 ---
